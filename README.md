@@ -1,4 +1,4 @@
-# 3d-ml-competition
+# stitch3d-competition
 
 This repo contains my submission for the Candelytics/Stitch3D ML competition.
 
