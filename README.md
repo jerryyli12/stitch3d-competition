@@ -1,0 +1,1 @@
+# stitch3d-competition
